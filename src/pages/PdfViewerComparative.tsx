@@ -1,9 +1,9 @@
 import { PDFViewer } from "@react-pdf/renderer";
-import ComparativeEvaluationPDF from "../pdf/ComparativeEvaluationPDF";
+import TransportComparativePDF from "../pdf/TransportComparativePDF";
 
 const PdfViewerComparative = () => (
   <PDFViewer style={{ width: "100%", height: "100vh" }}>
-    <ComparativeEvaluationPDF />
+    <TransportComparativePDF />
   </PDFViewer>
 );
 

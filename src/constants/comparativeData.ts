@@ -51,6 +51,7 @@ export const comparativeData = {
         },
       ],
     },
+    
   ],
 
   comparativa: [
